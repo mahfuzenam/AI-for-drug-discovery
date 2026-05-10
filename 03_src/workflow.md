@@ -7,7 +7,7 @@
 # 1. OPEN PROJECT
 
 cd ML-for-drug-discovery
-source venv/bin/activate
+source .venv/bin/activate
 
 # 2. START WORK
 
