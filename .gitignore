@@ -38,7 +38,8 @@ Thumbs.db
 # Data (IMPORTANT for ML projects)
 # =========================
 02_data/01_raw/
-02_data/processed/
+02_data/02_processed/
+
 
 # =========================
 # Model files (optional but recommended)
