@@ -1,2 +1,55 @@
+# =========================
+# Python virtual environment
+# =========================
+.venv/
 venv/
+env/
+
+# =========================
+# Python cache files
+# =========================
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code settings (optional)
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Data (IMPORTANT for ML projects)
+# =========================
+02_data/01_raw/
+02_data/processed/
+
+# =========================
+# Model files (optional but recommended)
+# =========================
+*.pkl
+*.joblib
+*.pt
+*.pth
+models/
+
+# =========================
+# Logs
+# =========================
+*.log
