@@ -1,4 +1,4 @@
-# AI for Drug Discovery
+# ML for Drug Discovery
 
 This repository contains my learning journey in AI and ML for Drug Discovery.
 
