@@ -4,10 +4,26 @@
 
 ############################
 
-# 1. OPEN PROJECT
+# 1.1 OPEN PROJECT ON MAC (TERMINAL)
 
-cd ML-for-drug-discovery
+cd "/Users/mahfuzenam/Documents/GitHub/ML-
+for-drug-discovery" 
+
+git pull origin main
+
 source .venv/bin/activate
+
+code .
+
+# 1.1 OPEN PROJECT ON PC (TERMINAL)
+
+cd "C:\Users\mahfuzenam\Documents\P.A.R.A\2. Areas\Research\Cheminformatics\ML-for-drug-discovery\ML-for-drug-discovery"
+
+git pull origin main
+
+.venv\Scripts\activate
+
+code .
 
 # 2. START WORK
 
