@@ -6,7 +6,7 @@
 
 # 1. OPEN PROJECT
 
-cd AI-for-drug-discovery
+cd ML-for-drug-discovery
 source venv/bin/activate
 
 # 2. START WORK
